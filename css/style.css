@@ -546,7 +546,8 @@ ol {
 }
 
 .slicknav_nav a:hover {
-	border-radius: 0;
+/* 	changes 1.1*/
+	border-radius: 25px; 
 	background: transparent;
 	color: #222222;
 }
@@ -600,6 +601,9 @@ ol {
 }
 
 .slide-item img {
+/* 	change 1.0 */
+	
+	background-size: 50%;
 	border-radius: 25px;
 	height: 250px;
 	padding: 65px 0;
