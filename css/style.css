@@ -1,5 +1,5 @@
 /* =================================
-------------------------------------
+-------------------------------------
   Boto | Photography HTML Template
   Version: 1.0
   Copyright By: ColorLib
@@ -600,6 +600,7 @@ ol {
 }
 
 .slide-item img {
+	border-radius: 25px;
 	height: 250px;
 	padding: 65px 0;
 	-webkit-transition: 0.4s;
