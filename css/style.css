@@ -435,8 +435,8 @@ ol {
 	width: 0;
 	height: 6px;
 	left: 0;
-	bottom: 8px;
-	background: #8DB952;
+	bottom: 0px;
+	background: #000000;
 	z-index: -1;
 	-webkit-transition: 0.3s;
 	-o-transition: 0.3s;
