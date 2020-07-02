@@ -607,9 +607,9 @@ ol {
 	border-radius: 25px;
 	height: 250px;
 	padding: 65px 0;
-	-webkit-transition: 0.4s;
-	-o-transition: 0.4s;
-	transition: 0.4s;
+	-webkit-transition: 0.10s;
+	-o-transition: 0.10s;
+	transition: 0.10s;
 }
 
 @media (max-width: 576px) {
