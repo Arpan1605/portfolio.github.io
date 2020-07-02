@@ -1206,11 +1206,11 @@ only screen and (min-width: 576px) and (max-width: 767px) {
   max-width: 1140px;
   width: 100%;
   padding-right: 15px;
-  padding-left: 15px;
+  padding-left: 10%;
   margin-right: auto;
   margin-left: auto;
   margin: 0 auto;
-  display: table;
+  display: grid;
 }
 
 .post__card {
