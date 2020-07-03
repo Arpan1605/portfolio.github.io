@@ -433,7 +433,7 @@ ol {
 	position: absolute;
 	content: "";
 	width: 0;
-	height: 6px;
+	height: 3px;
 	left: 0;
 	bottom: 0px;
 	background:#212529;
@@ -444,7 +444,7 @@ ol {
 }
 
 .main__menu .nav__menu>li>a.menu--active {
-	color: #212529;
+	color: #696969;
 }
 
 .main__menu .nav__menu>li>a.menu--active:after {
@@ -938,7 +938,7 @@ only screen and (min-width: 576px) and (max-width: 767px) {
 	padding: 4px 13px;
 	border-radius: 2px;
 	color: #fff;
-	background: #8DB952;
+	background: #000000;
 	margin-bottom: 20px;
 }
 
@@ -1005,7 +1005,7 @@ only screen and (min-width: 576px) and (max-width: 767px) {
 .blog__article blockquote h5 {
 	font-size: 14px;
 	text-transform: uppercase;
-	color: #8DB952;
+	color: #000000;
 	letter-spacing: 2px;
 }
 
@@ -1065,7 +1065,7 @@ only screen and (min-width: 576px) and (max-width: 767px) {
 .post__share a {
 	display: inline-block;
 	font-size: 16px;
-	color: #f8f9fa;
+	color: #000000;
 	margin-left: 30px;
 }
 
