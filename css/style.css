@@ -782,8 +782,31 @@ ol {
 
 .gallery__item img {
 	min-width: 100%;
+	height: 300px;
+ width: 400px;
+ overflow: hidden;
 }
 
+.gallery__item1 {
+	display: block;
+	margin-bottom: 30px;
+}
+
+.gallery__item1 img {
+	min-width: 100%;
+	height: 450px;
+ width: 500px;
+ overflow: hidden;
+}
+
+.gallery__item2 {
+	display: block;
+	margin-bottom: 30px;
+}
+
+.gallery__item2 img {
+	min-width: 100%;
+}
 .fr-position-outside {
 	left: 0;
 	top: 0;
@@ -1229,7 +1252,7 @@ only screen and (min-width: 576px) and (max-width: 767px) {
   background-color: #fff;
 }
 .post__card__image {
-  height: 14rem;
+  height: 20rem;
   width: 100%;
   background-size: cover;
   background-position: bottom;
